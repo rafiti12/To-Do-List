@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="category">Category:</string>
+    <string name="complete_date">Complete date:</string>
+    <string name="notifications">Notifications:</string>
+    <string name="description">Description</string>
+    <string name="completed">Completed:</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="yyyy_mm_dd_hh_mm">yyyy-MM-dd hh:mm</string>
+
+    <string-array name="search_options">
+        <item>Title</item>
+        <item>Category</item>
+    </string-array>
+</resources>
